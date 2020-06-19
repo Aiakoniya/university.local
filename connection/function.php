@@ -23,7 +23,7 @@ $data= $this->mysqli -> query($q);
     }
 
     public function sent_mail($to, $subject, $body){
-        $mailFromName="Aigerim";
+        $mailFromName="Aigeri";
         $mailFrom="aigerima.nurlanova@gmail.com";
 /////////////////////////////////////////////////////////////
 //Mail Header
